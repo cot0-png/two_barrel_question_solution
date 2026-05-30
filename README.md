@@ -1,0 +1,2 @@
+# two_barrel_question_solution
+没什么用的代码,用于解决两个桶如何操作能使较大的桶装有指定量的水
