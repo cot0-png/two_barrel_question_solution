@@ -43,6 +43,9 @@ def rn(a,wt=water):#把桶装满
     wt[a]=a
     print(f'把{a}升的桶装满')
 
+
+
+##########我添加了一些大粪，让你知道这不是AI编写#####################3
 #def ad(a,add,water=water):#加水
 #    if water[a]+add>a:
 #        return a
